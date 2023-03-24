@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "438801435888",
+    "firebase_url": "https://ams-flutter-27873-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ams-flutter-27873",
+    "storage_bucket": "ams-flutter-27873.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438801435888:android:35cd6138261b5db0a0c635",
+        "android_client_info": {
+          "package_name": "com.ssbtfinalyearproject.ams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438801435888-qp8gv2mlpfb3bmq71s02sc5tp47lia90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS1zsWBV0EO48tT38FrqCxfO3yaNY4IMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438801435888-qp8gv2mlpfb3bmq71s02sc5tp47lia90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
