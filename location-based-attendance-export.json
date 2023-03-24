@@ -1,0 +1,88 @@
+{
+  "Attendance": {
+    "ExHmmQA1EX6RbKhaTIfL": {
+      "19-03-2023": {
+        "in-19:46:32": {
+          "office": "office1",
+          "time": "19:46:32"
+        },
+        "out-19:46:42": {
+          "office": "office1",
+          "time": "19:46:42"
+        },
+        "20-03-2023": {
+          "in-15:10:09": {
+            "office": "office1",
+            "time": "15:10:09"
+          },
+          "out-20:36:14": {
+            "office": "office1",
+            "time": "16:36:14"
+          }
+        }
+      }
+    }
+  },
+  "EmployeeID": {
+    "1": "aakankshabhavsar4@gmail.com",
+    "2": "vaishnavisuryawanshi22052002@gmail.com",
+    "3": "chaitalibhosale50@gmail.com",
+    "4": "grpawar.gp@gmail.com",
+    "hr": {
+      "10": "hr@indus.com",
+      "11": "indus@indus.com"
+    },
+    "null": "asmaahbar@gmail.com"
+  },
+  "Managers": {
+    "ExHmmQA1EX6RbKhaTIfL": {
+      "ExHmmQA1EX6RbKhaTIfL": 4,
+      "HIoFuX5QMFZhEhbV1GupvJ9cuRn1": 2
+    }
+  },
+  "leaves": {
+    "7o8y0poBljPeakEnos1fCiVHkJO2": {
+      "-LvBnuGZzEU33AjIkt2z": {
+        "appliedDate": "03-12-2019",
+        "fromDate": "03-12-2019",
+        "message": "none",
+        "status": "approved",
+        "toDate": "06-12-2019",
+        "type": "cl",
+        "withdrawalStatus": 0
+      }
+    }
+  },
+  "location": {
+    "office 1": {
+      "latitude": 21.0128468037,
+      "longitude": 75.5026817677,
+      "name": "SSBT College of Engineering and Technology",
+      "radius": 200
+    }
+  },
+  "managers": {
+    "manager1": {
+      "designation": "Director Indus AutoMotive",
+      "name": "Hardik Gupta"
+    }
+  },
+  "users": {
+    "ExHmmQA1EX6RbKhaTIfL": {
+      "Address": "New Area Jalgaon",
+      "Name": "chaitali bhosale",
+      "PhoneNumber": "7894561230",
+      "UID": 3,
+      "UUID": "b5b697680c4e55ae",
+      "allotted_office": "office1",
+      "designation": "Student",
+      "leaves": {
+        "al": 2,
+        "cl": 1,
+        "ml": 0
+      },
+      "manager": "manager1",
+      "notificationToken": "e_WcwlpjW64:APA91bGCRORzOYxfTQOHvhPoMWxaC_S1wPK_JRJYBX1r-PeYzg7VPI48cSYnGa_fmpRuaM-copCJfHsm88y2FUhjFyWgJjm34qaJ0d4EVr1cCxxXIAvt7EWmxVz-NBiHJgCsoaUWoCPr"
+    }
+  }
+}
